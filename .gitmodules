@@ -5,6 +5,9 @@
 [submodule "GFDrmst"]
 	path = GFDrmst
 	url = https://github.com/cran/GFDrmst
+[submodule "GFDrmtl"]
+	path = GFDrmtl
+	url = https://github.com/cran/GFDrmtl
 [submodule "GFDsurv"]
 	path = GFDsurv
 	url = https://github.com/merlemunko/gfdsurv
